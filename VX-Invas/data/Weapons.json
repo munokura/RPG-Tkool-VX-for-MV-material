@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":1,"description":"武器。退魔師が用いる御符。攻撃力+10","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":2,"value":0}],"iconIndex":1,"name":"退魔符","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":1,"description":"武器。きめ細かく印が描かれてある御符。攻撃力+15","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":2,"value":0}],"iconIndex":1,"name":"抗魔符","note":"","params":[0,0,15,0,0,0,0,0],"price":400,"wtypeId":0},
+{"id":3,"animationId":1,"description":"武器。複雑な印が大きく描かれてある御符。攻撃力+25","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":2,"value":0}],"iconIndex":1,"name":"破魔符","note":"","params":[0,0,25,0,0,0,0,0],"price":800,"wtypeId":0},
+{"id":4,"animationId":3,"description":"武器。深紅の鮮やかな扇子。攻撃力+10","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":3,"value":0}],"iconIndex":1,"name":"紅扇子","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":3,"description":"武器。真っ白い羽で作られた扇子。攻撃力+15","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":3,"value":0}],"iconIndex":1,"name":"白羽扇","note":"","params":[0,0,15,0,0,0,0,0],"price":400,"wtypeId":0},
+{"id":6,"animationId":4,"description":"武器。祈祷するときに用いる特殊な扇子。攻撃力+25","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":3,"value":0}],"iconIndex":1,"name":"神楽月","note":"","params":[0,0,25,0,0,0,0,0],"price":800,"wtypeId":0},
+{"id":7,"animationId":5,"description":"武器。鉄で作られた篭手。攻撃力+15","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":1,"value":0}],"iconIndex":1,"name":"鉄篭手","note":"","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":6,"description":"武器。とても硬く頑丈な鉄甲。攻撃力+25","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.03},{"code":31,"dataId":1,"value":0}],"iconIndex":1,"name":"剛拳鍔","note":"","params":[0,0,25,0,0,0,0,0],"price":800,"wtypeId":0},
+{"id":9,"animationId":2,"description":"武器。時雨　彼向が愛用した御符。攻撃力+35","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.05},{"code":31,"dataId":2,"value":0},{"code":33,"dataId":0,"value":99999999}],"iconIndex":1,"name":"道清和符","note":"","params":[0,0,35,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[0,0,14,1,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ネネ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Actor2","classId":2,"equips":[0,0,12,1,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ナナ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"People3","classId":3,"equips":[11,0,0,5,0],"faceIndex":2,"faceName":"People3","traits":[{"code":23,"dataId":3,"value":2.0}],"initialLevel":5,"maxLevel":99,"name":"ヨーコ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"Actor3","classId":4,"equips":[15,20,0,8,0],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":12,"maxLevel":99,"name":"ポイポイ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"どこからともなく","nickname":"","note":"","profile":""}
+]

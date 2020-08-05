@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"mq0_chara1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"mq0_face2","traits":[],"initialLevel":3,"maxLevel":99,"name":"レクトール","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[1,0,0,1,0],"faceIndex":1,"faceName":"mq0_face1","traits":[],"initialLevel":3,"maxLevel":99,"name":"エリシア","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"mq0_chara1","classId":3,"equips":[66,0,54,13,0],"faceIndex":5,"faceName":"mq0_face2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ルビイ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"透明","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"mq0_chara1","classId":1,"equips":[11,0,0,1,61],"faceIndex":4,"faceName":"mq0_face2","traits":[],"initialLevel":3,"maxLevel":99,"name":"レクトール","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":2,"characterName":"mq0_chara1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"mq0_face1","traits":[],"initialLevel":1,"maxLevel":99,"name":"アルフレッド（サブクエ用）","nickname":"","note":"","profile":""}
+]

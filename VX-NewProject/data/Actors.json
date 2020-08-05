@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,1,0,14,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ラルフ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":3,"characterName":"Actor1","classId":2,"equips":[2,1,0,14,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ウルリカ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"Actor2","classId":3,"equips":[1,0,7,13,0],"faceIndex":2,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ベネット","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":5,"characterName":"Actor2","classId":4,"equips":[1,0,7,13,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"イルヴァ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"Actor1","classId":5,"equips":[2,1,0,14,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ロレンス","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":4,"characterName":"Evil","classId":6,"equips":[2,1,0,14,0],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"オスカー","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":1,"characterName":"Actor3","classId":7,"equips":[0,0,0,14,0],"faceIndex":1,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヴェラ","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":2,"characterName":"Actor3","classId":8,"equips":[1,0,0,14,0],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"エルマー","nickname":"","note":"","profile":""}
+]

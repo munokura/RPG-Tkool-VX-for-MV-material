@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"装飾品。水晶で出来た数珠。防御力+5","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"水晶の数珠","note":"","params":[0,0,0,5,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"装飾品。瑠璃色の指輪。防御力+10","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"瑠璃の指輪","note":"","params":[0,0,0,10,0,0,0,0],"price":200},
+{"id":3,"atypeId":0,"description":"装飾品。白銀を加工して作られた指輪。防御力+15","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"白銀のネックレス","note":"","params":[0,0,0,15,0,0,0,0],"price":450},
+{"id":4,"atypeId":0,"description":"装飾品。三日月型に拵えたブローチ。防御力+18","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"三日月のブローチ","note":"","params":[0,0,0,18,0,0,0,0],"price":600},
+{"id":5,"atypeId":0,"description":"装飾品。精神を安定させる効果を持つ数珠。防御力+20","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"魂魄の数珠","note":"","params":[0,0,0,20,0,0,0,0],"price":900},
+{"id":6,"atypeId":0,"description":"装飾品。朱雀石がはめられた腕輪。防御力+5","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"朱雀石の腕輪","note":"","params":[0,0,0,5,0,0,0,0],"price":0},
+{"id":7,"atypeId":0,"description":"装飾品。珊瑚を加工して作られた指輪。防御力+10","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"珊瑚の指輪","note":"","params":[0,0,0,10,0,0,0,0],"price":200},
+{"id":8,"atypeId":0,"description":"装飾品。翡翠を加工して作られた簪。防御力+13","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"翡翠の簪","note":"","params":[0,0,0,13,0,0,0,0],"price":450},
+{"id":9,"atypeId":0,"description":"装飾品。瑪瑙で拵えられた勾玉。防御力+15","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"瑪瑙の勾玉","note":"","params":[0,0,0,15,0,0,0,0],"price":600},
+{"id":10,"atypeId":0,"description":"装飾品。紫水晶で拵えられた勾玉。防御力+18","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"紫水晶の勾玉","note":"","params":[0,0,0,18,0,0,0,0],"price":900},
+{"id":11,"atypeId":0,"description":"装飾品。琴葉からもらった赤いスカーフ。防御力+10","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"真っ赤なスカーフ","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":12,"atypeId":0,"description":"装飾品。玉鋼で作られた腕輪。防御力+20","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"玉鋼の腕輪","note":"","params":[0,0,0,20,0,0,0,0],"price":1000},
+{"id":13,"atypeId":0,"description":"装飾品。何も書かれていない怪しい御守り。防御力+25","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":33,"name":"黒い御守り","note":"","params":[0,0,0,25,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":1,"traits":[{"code":22,"dataId":1,"value":0.0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
